@@ -7,4 +7,4 @@ Open the index.html file in any web browser.
 ## How to play:
 Using your arrow keys, navigate your player to the water and increase your score while avoiding collisions.
 
-Play the game on Github by visiting 
+Play the game on Github by visiting https://yelrow.github.io/Arcade-Game/
